@@ -69,7 +69,7 @@ ms.locfileid: "54242170"
   
 1.  Créez une sauvegarde de la fin du journal du journal des transactions actuellement actif comme point d'échec.  
   
-2.  Ne restaurez pas la sauvegarde complète de base de données de 18h00. Restaurez plutôt la sauvegarde complète de base de données la plus récente de 18h00, puis appliquez la sauvegarde du journal de 20h00 et la sauvegarde de la fin du journal.  
+2.  Ne restaurez pas la sauvegarde complète de base de données de 08h00. Restaurez plutôt la sauvegarde complète de base de données la plus récente de 18h00, puis appliquez la sauvegarde du journal de 20h00 et la sauvegarde de la fin du journal.  
   
  **Solution 2 : restaurer la base de données en utilisant une sauvegarde complète de base de données antérieure**  
   
